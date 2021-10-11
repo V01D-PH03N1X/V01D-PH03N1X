@@ -3,3 +3,4 @@
 - 🌱 aktuell lerne ich folgendes: JavaScript, 
 - 💞️ Glücklich in einer Beziehung ^^
 - 📫 Ich bin erreichbar über: https://darkmodz.de
+- 📫 Mail? Na klar! support@darkmodz.de 
