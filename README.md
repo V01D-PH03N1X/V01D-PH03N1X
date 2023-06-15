@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Private Projects.<br>👯 I’m looking to collaborate on some Futureprojects. <br>🤝 I’m looking for help with nothing.<br>🌱 I’m currently learning Java. <br>💬 Ask me about my Projects. <br>⚡ Fun fact, I´m a Software Developer and I have a Girlfriend. 
+🔭 I’m currently working on some Private Projects.<br>👯 I’m looking to collaborate on some Projects of my Friends. <br>🌱 I’m currently learning Java Spring Boot. <br>💬 Ask me about my Projects. <br>⚡ Fun fact, I´m a Software Developer and I have a Girlfriend. 
 
 
 ## 🌐 Socials:
