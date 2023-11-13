@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DarkModz-Official&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkModz-Official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkModz-Official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DarkModz-Official&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkModz-Official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=true&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkModz-Official&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=nord&count_private=false&hide_border=true&order=1&custom_title=GitHub%20Stats" height="250" alt="stats graph"  />
 </div>
 
 ###
